@@ -1,4 +1,4 @@
-Clima e CEP - Consulta de clima + endereço
+ # Clima e CEP - Consulta de clima + endereço
 Projeto de aplicação web para consultar informações de clima em tempo real e dados de endereço atráves do CEP, consumindo APIs externas.
 
  # Funcionalidades: 
